@@ -2,7 +2,7 @@
 
 > Status do projeto: Em desenvolvimento
 
-Dia 01 - Operações Boleanas - dia01.html
+Dia 01 - Operações Boleanas - dia1.html
 
 
 
